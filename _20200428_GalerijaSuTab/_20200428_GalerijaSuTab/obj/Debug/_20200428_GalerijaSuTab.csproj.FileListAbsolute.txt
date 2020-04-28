@@ -1,0 +1,10 @@
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\bin\Debug\_20200428_GalerijaSuTab.exe.config
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\bin\Debug\_20200428_GalerijaSuTab.exe
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\bin\Debug\_20200428_GalerijaSuTab.pdb
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.csprojAssemblyReference.cache
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.Form1.resources
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.Properties.Resources.resources
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.csproj.GenerateResource.cache
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.csproj.CoreCompileInputs.cache
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.exe
+C:\Users\minda\source\repos\_20200428_GalerijaSuTab\_20200428_GalerijaSuTab\obj\Debug\_20200428_GalerijaSuTab.pdb
